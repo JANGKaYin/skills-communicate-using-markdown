@@ -1,3 +1,4 @@
 # testing
 
-an h1 header
+cat image
+![testing](https://octodex.github.com/images/yaktocat.png)
